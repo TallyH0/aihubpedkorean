@@ -12,7 +12,7 @@ lr = 1e-2
 model = 'mit_b0'
 dir_image = 'F:/Data/pedestrain_korean/image/Training/data'
 dir_test = 'F:/Data/pedestrain_korean/image/Validation/data'
-save_path = 'ped_reid.pth'
+save_path = 'aihub_korea_ped_reid_training_set_mit_b0.pth'
 
 augmentation = A.Compose([
     A.HorizontalFlip(),
