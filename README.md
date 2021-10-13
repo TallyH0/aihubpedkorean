@@ -59,3 +59,7 @@ python evaluate.py --config cfg.py --dataset Market1501 --dir_query [Market1501 
 |Dataset|Backbone|Link|
 |---|---|---|
 |AIHUB 한국인 재식별 Training set|MixFormer b0|[Download](https://drive.google.com/file/d/1c2qhJBh4-kMpdB6v31c2bt56SAiK1DMc/view?usp=sharing)|
+
+
+# TODO   
+- AIHUB 한국인 재식별 이미지 전체 데이터 학습한 모델 update
